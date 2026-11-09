@@ -18,7 +18,8 @@ Il lavoro di NOTI è pianificato nel Project [NOTI](https://github.com/orgs/SOLT
 | Todo | Pronto, assegnato a uno sprint |
 | In progress | In lavorazione |
 | In staging | Su staging, in attesa del rilascio in prod |
-| Done | Rilasciato |
+| Done | Rilasciato in prod |
+| Released (main) | Incluso in un major update su main |
 
 ## Branch
 
